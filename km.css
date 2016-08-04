@@ -1,3 +1,5 @@
+html, body{margin:0;font-family:Arial,sans-serif;font-size:16px;}h1 {font-size:1.5em;font-family:sans-serif,Arial;}h2 {font-size:1.25em;font-family:sans-serif,Arial;}h3 {font-size:1.06em;font-family:sans-serif,Arial;}h4 {font-size:1em;font-family:sans-serif,Arial;} h1.title{text-align:center;padding:0.25em 0 0.25em 0;margin:0;text-transform:uppercase;font-family:sans-serif,Arial;}
+a {text-decoration:none;} h2.post-title {margin:0;text-align:center;}h3.post-title {margin:0;text-align:center;}
 img {max-width:100%;height:auto;} a{text-decoration:none;color:#01a1b9;} a:hover{color:#FF6600;} ol li {display:list-item;list-style-type:inherit;} object{border:none;overflow:hidden}blockquote{border-left:solid 0.2em #FF5500;padding:0.3em 0 0.3em 1em;font-family:sans-serif,Georgia;font-size:1em;line-height:1.1em;}
 .titlewrapper{background:-webkit-gradient(linear,left top,left bottom,from(#ddd),to(#ccc));padding:0;width:100%;margin:0 0 -1em 0}
 .title{border-width:0;padding:0;margin:0;}
