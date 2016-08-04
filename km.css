@@ -1,4 +1,3 @@
-<style>
 /* NAVIGATION MENU */
 .toggleMenu{display:none;background:#333;padding:0 15px;height:40px;line-height:40px;color:#fff !important;}
 #nav{background:#B43104;text-transform:uppercase;height:40px;line-height:40px;width:100%;font-size:0.8em;border-top:solid 0.3em
@@ -79,4 +78,3 @@ border-style:solid;border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.3) rgba(0,0,0,0.1) 
 .terkait{border:0.1em solid #888;margin:0;font-weight:bold;padding:0.3em 0 0.3em 1em;background:-webkit-gradient(linear,left top,left bottom,from(#eee),to(#ddd));}
 @media screen and (max-width:900px){#HTML1,#HTML2,#HTML4,#HTML6{display:none;}#HTML7{overflow:auto;}#outers{width:auto;display:block;margin:0 auto;padding:0.25em;}
 #contents{width:auto;display:block;padding:0;background:transparent;}#lefts{width:auto;display:block;margin:0px !important;}#mains{width:auto;display:block;margin:0px !important;}#rights{width:auto;display:block;margin:10px 0 0 0 !important;}#reciprocal ul {display:block;}}
-</style>
