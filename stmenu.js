@@ -1,0 +1,1 @@
+$(document).ready(function(){var o=$("#nav").offset().top,n=function(){$(window).scrollTop()>o?$("#nav").css({position:"fixed",top:0,"z-index":9999}):$("#nav").css({position:"relative"})};n(),$(window).scroll(function(){n()})});
