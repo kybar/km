@@ -1,8 +1,8 @@
 .comments {
-  clear: both;
-  margin-top: 10px;
-  margin-bottom: 0px;
-  line-height: 1em;
+clear: both;
+margin-top: 10px;
+margin-bottom: 0px;
+line-height: 1em;
 }
 .comments .comments-content {
 font-size: 12px;
@@ -34,7 +34,7 @@ background: -moz-linear-gradient(top, #0099FF, #009999);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#0099FF&#39;, endColorstr=&#39;#009999&#39;);
 }
 .comments .continue a:hover, .comments .comment .comment-actions a:hover {
-  text-decoration: none;
+text-decoration: none;
 background:#0099FF;
 background: -webkit-gradient(linear, left top, left bottom, from(#009999), to(#0099FF));
 background: -moz-linear-gradient(top, #009999, #0099FF);
@@ -48,9 +48,9 @@ background: -moz-linear-gradient(top, #0066FF, #0099CC);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#0066FF&#39;, endColorstr=&#39;#0099CC&#39;);
 }
 .comments .comments-content .comment-thread ol {
-  list-style-type: none;
-  padding: 0;
-  text-align:justify;
+list-style-type: none;
+padding: 0;
+text-align:justify;
 }
 .comments .comments-content .inline-thread {
   padding: 0.5em 1em 0 1em;
@@ -112,7 +112,7 @@ line-height: 19px;
 font-family: Arial, sans-serif;
 font-size: 12.5px;
 line-height: 19px;
-  text-align:none;
+text-align:justify;
 margin: 15px 0 15px;
 }
 .comments .comments-content .owner-actions {
