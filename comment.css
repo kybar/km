@@ -5,11 +5,11 @@
   line-height: 1em;
 }
 .comments .comments-content {
-  font-size: 12px;
-  margin-bottom: 16px;
+font-size: 12px;
+margin-bottom: 16px;
 font-family: Verdana;
 font-weight: normal;
-text-align:left;
+text-align:justify;
 line-height: 1.4em;
 }
 .comments .continue a, .comments .comment .comment-actions a {
@@ -50,7 +50,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;#0066FF&#3
 .comments .comments-content .comment-thread ol {
   list-style-type: none;
   padding: 0;
-  text-align: none;
+  text-align:justify;
 }
 .comments .comments-content .inline-thread {
   padding: 0.5em 1em 0 1em;
